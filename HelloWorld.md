@@ -15,7 +15,6 @@ If you want a comment that is strictly for yourself (readers of the converted do
 
 // <This is also a comment>
 
-# <Another Comment>
 
 To improve platform compatibility (and to save one keystroke) it is also possible to use # (which is a legitimate hyperlink target) instead of <>:
 
