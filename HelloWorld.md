@@ -12,7 +12,7 @@ If you want a comment that is strictly for yourself (readers of the converted do
 <in  the output file unless you use it in>
 <a reference style link.>
 
-[]: < a reference style link.> (this is made intentionally visible by adding []:)
+[comment]: < a reference style link.> (this is made intentionally visible by adding a reference []:)
 
 <This is also a comment>
 
