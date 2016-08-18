@@ -14,7 +14,7 @@ If you want a comment that is strictly for yourself (readers of the converted do
 
 [comment]: < a reference style link.>
 
-//<This is also a comment>
+<This is also a comment>
 
 To improve platform compatibility (and to save one keystroke) it is also possible to use # (which is a legitimate hyperlink target) instead of <>: (edit to view comment)
 
