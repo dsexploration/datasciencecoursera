@@ -1,7 +1,7 @@
 ## This is a markdown file
 
 I added some information about adding comments to markdown files.
-Examples of hidden comments are included in this .md
+Examples of hidden comments are included in this .md, you may have to open them in an editor to see the comments.
 [comments-in-markdown @stackoverflow](http://stackoverflow.com/questions/4823468/comments-in-markdown "Magnus@stackoverflow")
 
 If you want a comment that is strictly for yourself (readers of the converted document should not be able to see it, even with "view source") you could (ab)use the link labels (for use with reference style links) that are available in the core Markdown specification:
@@ -15,8 +15,7 @@ If you want a comment that is strictly for yourself (readers of the converted do
 
 // <This is also a comment>
 
-
-To improve platform compatibility (and to save one keystroke) it is also possible to use # (which is a legitimate hyperlink target) instead of <>:
+To improve platform compatibility (and to save one keystroke) it is also possible to use # (which is a legitimate hyperlink target) instead of <>: ()
 
 [//]: # (This may be the most platform independent comment)
 It may also be prudent to insert a blank line before and after this type of comments, because some Markdown parsers may not like link definitions brushing up against regular text.
