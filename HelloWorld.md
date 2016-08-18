@@ -8,8 +8,8 @@ If you want a comment that is strictly for yourself (readers of the converted do
 [markdown syntax](http://daringfireball.net/projects/markdown/syntax "daringfireball.net")
 
 <This is a comment, it will not be included>
-< in  the output file unless you use it in>
-< a reference style link.>
+<in  the output file unless you use it in>
+<a reference style link.>
 
 [comment]: < a reference style link.>
 
