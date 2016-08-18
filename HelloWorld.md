@@ -1,14 +1,18 @@
 ## This is a markdown file
 
-<This is a comment, it will not be included>
-<in  the output file unless you use it in>
+I added some information about adding comments to markdown files.
+Examples of hidden comments are included in this .md
+[comments-in-markdown @stackoverflow](http://stackoverflow.com/questions/4823468/comments-in-markdown "Magnus@stackoverflow")
 
 If you want a comment that is strictly for yourself (readers of the converted document should not be able to see it, even with "view source") you could (ab)use the link labels (for use with reference style links) that are available in the core Markdown specification:
-
 [markdown syntax](http://daringfireball.net/projects/markdown/syntax "daringfireball.net")
 
+<This is a comment, it will not be included>
+< in  the output file unless you use it in>
+< a reference style link.>
 
-Or you could go further:
+[comment]: < a reference style link.>
+
 
 //: <> (This is also a comment.)
 To improve platform compatibility (and to save one keystroke) it is also possible to use # (which is a legitimate hyperlink target) instead of <>:
