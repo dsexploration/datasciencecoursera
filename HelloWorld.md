@@ -1,6 +1,6 @@
 ## This is a markdown file
 
-comment: <> (This is a comment, it will not be included)
+<test com> (This is a comment, it will not be included)
 [comment]: <> (in  the output file unless you use it in)
 
 If you want a comment that is strictly for yourself (readers of the converted document should not be able to see it, even with "view source") you could (ab)use the link labels (for use with reference style links) that are available in the core Markdown specification:
