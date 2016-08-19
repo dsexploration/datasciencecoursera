@@ -30,7 +30,7 @@ To improve platform compatibility (and to save one keystroke) it is also possibl
 (edit to view comment)
 
 [//]: # (This may be the most platform independent comment)
-[//]: (This may be the most platform independent comment)
-It may also be prudent to insert a blank line before and after this type of comments, because some Markdown parsers may not like link definitions brushing up against regular text. [//]: # (Comment here)
+# (This may be a comment)
+>It may also be prudent to insert a blank line before and after this type of comments, because some Markdown parsers may not like link >definitions brushing up against regular text. [//]: # (Comment here)
 
-This should work with most Markdown parsers, since it's part of the core specification. (even if the behavior when multiple links are defined, or when a link is defined but never used, is not strictly specified).
+>This should work with most Markdown parsers, since it's part of the core specification. (even if the behavior when multiple links are >defined, or when a link is defined but never used, is not strictly specified).
