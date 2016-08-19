@@ -10,6 +10,7 @@ Examples of hidden comments are included in this .md, you may have to open them 
 1. Using link labels
 (edit to view comment)
 >If you want a comment that is strictly for yourself 
+
 >(readers of the converted document should not be able to see it, even with "view source") 
 >you could (ab)use the link labels (for use with reference style links) that are available in the core Markdown specification:
 [markdown syntax](http://daringfireball.net/projects/markdown/syntax "daringfireball.net")
