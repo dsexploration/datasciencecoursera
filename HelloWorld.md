@@ -1,6 +1,6 @@
 ## This is a markdown file
 
-# Commenting in markdown files
+### Commenting in markdown files
 Just creating .md file with only a heading seemed boring to me, so i thought about some usefull example content.
 and added some information about adding comments to markdown files.
 
